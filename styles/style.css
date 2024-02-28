@@ -153,7 +153,7 @@
 }
 
 .bet-button {
-    font-family: inherit;
+    font-family: Raleway, sans-serif;
     font-size: 22px;
     line-height: 25.83px;
     text-transform: uppercase;
@@ -208,7 +208,7 @@
     z-index: 1;
 }
 
-.card_type {    
+.card_type {
     background-color: #000;
     background-repeat: no-repeat;
     background-position: center;
